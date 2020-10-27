@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e87f6b2e-a954-4dd1-bd04-397614bf4035" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hd50YDanftFBwzN365wkuThMyo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/huberto" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e87f6b2e-a954-4dd1-bd04-397614bf4035" name="Default Changelist" comment="" />
+      <created>1600327906582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600327906582</updated>
+      <workItem from="1600327907685" duration="2048000" />
+      <workItem from="1600410051974" duration="26000" />
+      <workItem from="1600413213643" duration="1341000" />
+      <workItem from="1600929971955" duration="3022000" />
+      <workItem from="1600957786147" duration="669000" />
+      <workItem from="1601009342490" duration="2863000" />
+      <workItem from="1601144509096" duration="2220000" />
+      <workItem from="1601547434843" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601145951901">
+      <screen x="63" y="28" width="1857" height="1014" />
+    </state>
+    <state x="449" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/63.28.1857.1014@63.28.1857.1014" timestamp="1601145951901" />
+    <state x="719" y="334" width="540" height="409" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601145807154">
+      <screen x="63" y="28" width="1857" height="1014" />
+    </state>
+    <state x="719" y="334" width="540" height="409" key="#com.intellij.fileTypes.FileTypeChooser/63.28.1857.1014@63.28.1857.1014" timestamp="1601145807154" />
+    <state x="774" y="293" width="424" height="491" key="FileChooserDialogImpl" timestamp="1601547454370">
+      <screen x="63" y="28" width="1857" height="1014" />
+    </state>
+    <state x="774" y="293" width="424" height="491" key="FileChooserDialogImpl/63.28.1857.1014@63.28.1857.1014" timestamp="1601547454370" />
+    <state x="488" y="170" width="1007" height="737" key="SettingsEditor" timestamp="1601144827456">
+      <screen x="63" y="28" width="1857" height="1014" />
+    </state>
+    <state x="488" y="170" width="1007" height="737" key="SettingsEditor/63.28.1857.1014@63.28.1857.1014" timestamp="1601144827456" />
+    <state x="527" y="226" width="918" height="624" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601144767282">
+      <screen x="63" y="28" width="1857" height="1014" />
+    </state>
+    <state x="527" y="226" width="918" height="624" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/63.28.1857.1014@63.28.1857.1014" timestamp="1601144767282" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="javascript-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
